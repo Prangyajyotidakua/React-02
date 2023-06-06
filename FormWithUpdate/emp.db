@@ -1,0 +1,458 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": 1,
+            "user_details": {
+                "id": "decb0c96-f5d0-4049-9d94-a99a8b423b69",
+                "last_login": "2023-05-26T09:24:31.313747Z",
+                "email": "admin@admin.com",
+                "username": "Admin",
+                "is_active": true,
+                "is_staff": true,
+                "is_employee": true,
+                "is_superuser": true,
+                "created_at": "2023-05-18T06:08:33.615162Z",
+                "updated_at": "2023-05-27T06:09:41.213910Z"
+            },
+            "personal_details": {
+                "id": 1,
+                "address": [
+                    {
+                        "id": 6,
+                        "address_1": "69/1242",
+                        "address_2": "LIG Kalingvihar",
+                        "city": "Bhubaneswar",
+                        "state": "Odisha",
+                        "pincode": "753001",
+                        "land_mark": "Near Kohinoor EAPT",
+                        "created": "2023-05-18T09:56:22.929506Z",
+                        "updated": "2023-05-18T09:56:22.929506Z"
+                    },
+                    {
+                        "id": 7,
+                        "address_1": "qwdwfgghjhj",
+                        "address_2": "esrdgfghj",
+                        "city": "dsfgfh",
+                        "state": "asdxfcvb",
+                        "pincode": "sdxfcgv",
+                        "land_mark": "afcvb",
+                        "created": "2023-05-18T10:21:48.598823Z",
+                        "updated": "2023-05-18T10:21:48.598823Z"
+                    }
+                ],
+                "name": "jyoti",
+                "profile_pic": null,
+                "date_of_birth": "2023-05-17",
+                "gender": "MALE",
+                "father_name": "JLK",
+                "mother_name": "RDK",
+                "emergency_contact_1": "1234567890",
+                "relation_emergency_contact_1": "F",
+                "emergency_contact_2": "1234567890",
+                "relation_emergency_contact_2": "M",
+                "resume": "https://www.resume.com/in/tom-k64/",
+                "created": "2023-05-18T07:39:52.635475Z",
+                "updated": "2023-05-26T11:45:36.549939Z"
+            },
+            "education_details": [
+                {
+                    "id": 1,
+                    "branch": {
+                        "id": 2,
+                        "title": "MECH",
+                        "description": "dummy Descriotion",
+                        "created": "2023-05-18T10:05:57.137308Z",
+                        "updated": "2023-05-18T10:05:57.137308Z"
+                    },
+                    "degree": {
+                        "id": 2,
+                        "title": "ME",
+                        "description": "fghjkl;'",
+                        "created": "2023-05-18T10:06:10.291282Z",
+                        "updated": "2023-05-18T10:06:10.291282Z"
+                    },
+                    "from_year": "2023-05-01",
+                    "to_year": "2023-05-17",
+                    "percentage": "99.00",
+                    "specialization": "WebDevelopment",
+                    "university": "BPUT",
+                    "institute": "NIT",
+                    "country": "India",
+                    "state": "Odisha",
+                    "city": "Bhubaneswar",
+                    "created": "2023-05-18T09:35:22.895038Z",
+                    "updated": "2023-05-27T10:34:29.182209Z"
+                },
+                {
+                    "id": 2,
+                    "branch": {
+                        "id": 1,
+                        "title": "CSE",
+                        "description": "dummy description",
+                        "created": "2023-05-18T09:59:08.160510Z",
+                        "updated": "2023-05-18T09:59:08.160510Z"
+                    },
+                    "degree": {
+                        "id": 1,
+                        "title": "B.Tech",
+                        "description": "dummy desc",
+                        "created": "2023-05-18T09:59:37.046959Z",
+                        "updated": "2023-05-18T09:59:37.046959Z"
+                    },
+                    "from_year": "2023-05-01",
+                    "to_year": "2023-05-17",
+                    "percentage": "69.43",
+                    "specialization": "WebDevelopment",
+                    "university": "BPUT",
+                    "institute": "NIT",
+                    "country": "India",
+                    "state": "Odisha",
+                    "city": "Bhubaneswar",
+                    "created": "2023-05-18T10:02:21.332376Z",
+                    "updated": "2023-05-27T05:20:26.244936Z"
+                }
+            ],
+            "work_experience": [
+                {
+                    "id": 1,
+                    "designation": {
+                        "id": 1,
+                        "title": "Intern",
+                        "description": "dummy desc",
+                        "created": "2023-05-18T10:00:47.624422Z",
+                        "updated": "2023-05-18T10:00:47.624422Z"
+                    },
+                    "role": {
+                        "id": 1,
+                        "title": "Backend Developer",
+                        "description": "dummy desc",
+                        "created": "2023-05-18T10:01:12.888350Z",
+                        "updated": "2023-05-18T10:01:12.888350Z"
+                    },
+                    "payslip": [
+                        {
+                            "id": 1,
+                            "title": "January Payslip",
+                            "payslip": "https://www.payslip-may.com/in/tom-k64/",
+                            "description": "dummy desc",
+                            "payslipdate": "2023-05-09",
+                            "created": "2023-05-18T10:03:22.575830Z",
+                            "updated": "2023-05-18T10:03:22.575830Z"
+                        }
+                    ],
+                    "from_year": "2023-05-01",
+                    "to_year": "2023-05-31",
+                    "organisation": "Codebeat",
+                    "salary": "5000.00",
+                    "country": "India",
+                    "state": "Odisha",
+                    "city": "Bhubaneswar",
+                    "created": "2023-05-18T10:05:15.229122Z",
+                    "updated": "2023-05-27T08:25:15.824000Z"
+                }
+            ],
+            "contact_info": {
+                "id": 1,
+                "linkedin": "linkedin.com",
+                "twitter": "twitter.com",
+                "git": "https://www.github.com/in/tom-k64/",
+                "whatsapp": "9439421434",
+                "email": "kanhayakat@gmail.com",
+                "created": "2023-05-18T07:39:52.639696Z",
+                "updated": "2023-05-27T05:03:54.658591Z"
+            },
+            "employee_detail": {
+                "id": 1,
+                "designation": {
+                    "id": 1,
+                    "title": "Intern",
+                    "description": "dummy desc",
+                    "created": "2023-05-18T10:00:47.624422Z",
+                    "updated": "2023-05-18T10:00:47.624422Z"
+                },
+                "department": {
+                    "id": 1,
+                    "title": "Backend",
+                    "description": "dummy desc",
+                    "created": "2023-05-18T10:00:29.462057Z",
+                    "updated": "2023-05-18T10:00:29.462057Z"
+                },
+                "account_details": {
+                    "id": 1,
+                    "beneficiary_name": "Kanhaya Kataruka",
+                    "beneficiary_bankname": "State Bank of Inida",
+                    "account_number": "37758960301",
+                    "ifsc_code": "SBIN0000235",
+                    "created": "2023-05-18T10:07:29.377982Z",
+                    "updated": "2023-05-18T10:07:29.377982Z"
+                },
+                "payslip": [
+                    {
+                        "id": 1,
+                        "title": "January Payslip",
+                        "payslip": "https://www.payslip-may.com/in/tom-k64/",
+                        "description": "dummy desc",
+                        "payslipdate": "2023-05-09",
+                        "created": "2023-05-18T10:03:22.575830Z",
+                        "updated": "2023-05-18T10:03:22.575830Z"
+                    }
+                ],
+                "employee_id": "1",
+                "joining_date": "2023-05-01",
+                "leaving_date": "2023-05-17",
+                "salary": "5000.00",
+                "created": "2023-05-18T07:39:52.648562Z",
+                "updated": "2023-05-26T11:20:57.125782Z"
+            },
+            "documents": {
+                "id": 1,
+                "photo": "https://www.photo.com/in/tom-k64/",
+                "signature": "https://www.signature.com/in/tom-k64/",
+                "aadharcard_doc": "https://www.aadhar.com/in/tom-k64/",
+                "pancard_doc": "https://www.pancard.com/in/tom-k64/",
+                "passport_doc": "https://www.passport.com/in/tom-k64/",
+                "aadharcard": "1234567887456321",
+                "pancard": "ABCDE2134K",
+                "passport": "ZWEKLB",
+                "created": "2023-05-18T07:39:52.663937Z",
+                "updated": "2023-05-18T10:10:14.360262Z"
+            },
+            "created": "2023-05-18T07:39:52.671987Z",
+            "updated": "2023-05-26T10:42:32.733452Z",
+            "user": "decb0c96-f5d0-4049-9d94-a99a8b423b69"
+        },
+        {
+            "id": 3,
+            "user_details": {
+                "id": "a3fd0d5f-5944-4db1-b136-c9460bb4215a",
+                "last_login": "2023-05-18T11:03:53.919248Z",
+                "email": "kanhayakat@gmail.com",
+                "username": "kanhaya",
+                "is_active": true,
+                "is_staff": true,
+                "is_employee": true,
+                "is_superuser": true,
+                "created_at": "2023-05-18T07:39:52.287301Z",
+                "updated_at": "2023-05-27T04:55:03.206164Z"
+            },
+            "personal_details": {
+                "id": 3,
+                "address": [],
+                "name": null,
+                "profile_pic": null,
+                "date_of_birth": null,
+                "gender": null,
+                "father_name": null,
+                "mother_name": null,
+                "emergency_contact_1": null,
+                "relation_emergency_contact_1": null,
+                "emergency_contact_2": null,
+                "relation_emergency_contact_2": null,
+                "resume": null,
+                "created": "2023-05-19T11:14:21.407446Z",
+                "updated": "2023-05-19T11:14:21.407446Z"
+            },
+            "education_details": [],
+            "work_experience": [],
+            "contact_info": {
+                "id": 3,
+                "linkedin": null,
+                "twitter": null,
+                "git": null,
+                "whatsapp": null,
+                "email": null,
+                "created": "2023-05-19T11:14:21.420320Z",
+                "updated": "2023-05-19T11:14:21.420320Z"
+            },
+            "employee_detail": {
+                "id": 3,
+                "designation": {
+                    "title": "",
+                    "description": ""
+                },
+                "department": {
+                    "title": "",
+                    "description": ""
+                },
+                "account_details": {
+                    "beneficiary_name": "",
+                    "beneficiary_bankname": "",
+                    "account_number": "",
+                    "ifsc_code": ""
+                },
+                "payslip": [],
+                "employee_id": "3",
+                "joining_date": null,
+                "leaving_date": null,
+                "salary": null,
+                "created": "2023-05-19T11:14:21.428251Z",
+                "updated": "2023-05-26T09:43:56.229846Z"
+            },
+            "documents": {
+                "id": 3,
+                "photo": null,
+                "signature": null,
+                "aadharcard_doc": null,
+                "pancard_doc": null,
+                "passport_doc": null,
+                "aadharcard": null,
+                "pancard": null,
+                "passport": null,
+                "created": "2023-05-19T11:14:21.441568Z",
+                "updated": "2023-05-19T11:14:21.441568Z"
+            },
+            "created": "2023-05-19T11:14:21.452468Z",
+            "updated": "2023-05-26T09:43:57.549364Z",
+            "user": "a3fd0d5f-5944-4db1-b136-c9460bb4215a"
+        },
+        {
+            "id": 4,
+            "user_details": {
+                "id": "97dc502c-2621-4825-bbcd-e20c58b003a2",
+                "last_login": null,
+                "email": "hello@gmail.com",
+                "username": "Hello",
+                "is_active": true,
+                "is_staff": true,
+                "is_employee": true,
+                "is_superuser": true,
+                "created_at": "2023-05-26T09:24:07.427228Z",
+                "updated_at": "2023-05-26T09:24:50.215201Z"
+            },
+            "personal_details": {
+                "id": 4,
+                "address": [],
+                "name": null,
+                "profile_pic": null,
+                "date_of_birth": null,
+                "gender": null,
+                "father_name": null,
+                "mother_name": null,
+                "emergency_contact_1": null,
+                "relation_emergency_contact_1": null,
+                "emergency_contact_2": null,
+                "relation_emergency_contact_2": null,
+                "resume": null,
+                "created": "2023-05-26T09:24:07.708695Z",
+                "updated": "2023-05-26T09:24:07.708695Z"
+            },
+            "education_details": [],
+            "work_experience": [],
+            "contact_info": {
+                "id": 4,
+                "linkedin": null,
+                "twitter": null,
+                "git": null,
+                "whatsapp": null,
+                "email": null,
+                "created": "2023-05-26T09:24:07.714728Z",
+                "updated": "2023-05-26T09:24:07.714728Z"
+            },
+            "employee_detail": {
+                "id": 4,
+                "designation": {
+                    "title": "",
+                    "description": ""
+                },
+                "department": {
+                    "title": "",
+                    "description": ""
+                },
+                "account_details": {
+                    "beneficiary_name": "",
+                    "beneficiary_bankname": "",
+                    "account_number": "",
+                    "ifsc_code": ""
+                },
+                "payslip": [],
+                "employee_id": "4",
+                "joining_date": null,
+                "leaving_date": null,
+                "salary": null,
+                "created": "2023-05-26T09:24:07.721808Z",
+                "updated": "2023-05-26T09:47:55.531515Z"
+            },
+            "documents": {
+                "id": 4,
+                "photo": null,
+                "signature": null,
+                "aadharcard_doc": null,
+                "pancard_doc": null,
+                "passport_doc": null,
+                "aadharcard": null,
+                "pancard": null,
+                "passport": null,
+                "created": "2023-05-26T09:24:07.730190Z",
+                "updated": "2023-05-26T09:24:07.730190Z"
+            },
+            "created": "2023-05-26T09:24:07.739774Z",
+            "updated": "2023-05-26T09:24:07.739774Z",
+            "user": "97dc502c-2621-4825-bbcd-e20c58b003a2"
+        }
+    ]
+}
+
+
+work info
+
+[
+        {
+            "id": 1,
+            "branch": {
+                "id": 2,
+                "title": "MECH",
+                "description": "dummy Descriotion",
+                "created": "2023-05-18T10:05:57.137308Z",
+                "updated": "2023-05-18T10:05:57.137308Z"
+            },
+            "degree": {
+                "id": 2,
+                "title": "ME",
+                "description": "fghjkl;'",
+                "created": "2023-05-18T10:06:10.291282Z",
+                "updated": "2023-05-18T10:06:10.291282Z"
+            },
+            "from_year": "2023-05-01",
+            "to_year": "2023-05-17",
+            "percentage": "69.43",
+            "specialization": "WebDevelopment",
+            "university": "BPUT",
+            "institute": "NIT",
+            "country": "India",
+            "state": "Odisha",
+            "city": "Bhubaneswar",
+            "created": "2023-05-18T09:35:22.895038Z",
+            "updated": "2023-05-18T10:06:12.954899Z"
+        },
+        {
+            "id": 2,
+            "branch": {
+                "id": 1,
+                "title": "CSE",
+                "description": "dummy description",
+                "created": "2023-05-18T09:59:08.160510Z",
+                "updated": "2023-05-18T09:59:08.160510Z"
+            },
+            "degree": {
+                "id": 1,
+                "title": "B.Tech",
+                "description": "dummy desc",
+                "created": "2023-05-18T09:59:37.046959Z",
+                "updated": "2023-05-18T09:59:37.046959Z"
+            },
+            "from_year": "2023-05-01",
+            "to_year": "2023-05-17",
+            "percentage": "69.43",
+            "specialization": "WebDevelopment",
+            "university": "BPUT",
+            "institute": "NIT",
+            "country": "India",
+            "state": "Odisha",
+            "city": "Bhubaneswar",
+            "created": "2023-05-18T10:02:21.332376Z",
+            "updated": "2023-05-18T10:02:21.332376Z"
+        }
+    ]
